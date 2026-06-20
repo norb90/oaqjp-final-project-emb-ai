@@ -34,5 +34,5 @@ class TestEmotionDetector(unittest.TestCase):
             "fear"
         )
 
-
-if __name__ == "__main__": unittest.main()
+if __name__ == "__main__": 
+    unittest.main()
